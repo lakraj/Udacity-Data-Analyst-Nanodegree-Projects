@@ -5,14 +5,14 @@ This repository includes my projects from the Udacity Data Analyst Nanodegree.
     ii. Weather data analysis and comparison in R, R Studio  
  
   
-2.  **Statistical Analysis and Hypothesis Testing of Stroop Effect** [PROJECT Link](
+2.  **Statistical Analysis and Hypothesis Testing of Stroop Effect** [Project Link](
       Udacity-Data-Analyst-Nanodegree-Projects/PROJECT_1_Data_Analysis_of_Stroop_Effect/LakshmiRajasekhar_Term2_Project1_Statistics_TheScienceOfDecisions.md
     )  
     i.  Analysis of stoop effect data for both congruent (text and ink colour same) and incongruent cases  
     ii. Hypothesis testing between mean reading times of congruent and incongruent cases  
     ii. Analysis in R  
       
-3.  **Data Exploration of Prosper Loan Data** [PROJECT LINK](
+3.  **Data Exploration of Prosper Loan Data** [Project Link](
       Udacity-Data-Analyst-Nanodegree-Projects/PROJECT_2_Data_Exploration_of_Prosper_Loan_Data/LakshmiRajasekhar_Term2_Project2_Explore_And_Summarize_Data.md
     )  
     i.  Descriptive analysis of loan data from Prosper (a peer-to-peer lending platform) in R  
